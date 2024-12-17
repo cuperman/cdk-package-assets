@@ -1,12 +1,3 @@
-# Welcome to your CDK TypeScript Construct Library project
+# CDK Package Assets
 
-You should explore the contents of this project. It demonstrates a CDK Construct Library that includes a construct (`CdkPackageAssets`)
-which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
-
-The construct defines an interface (`CdkPackageAssetsProps`) to configure the visibility timeout of the queue.
-
-## Useful commands
-
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
+Manage lambda code and dependencies as npm packages for compatibility with CDK applications.

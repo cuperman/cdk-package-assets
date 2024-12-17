@@ -2,8 +2,8 @@
   "name": "cdk-package-assets",
   "version": "0.1.1",
   "license": "MIT",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "clean": "rm -rf ./dist",
     "build": "tsc",
